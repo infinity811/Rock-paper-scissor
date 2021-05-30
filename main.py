@@ -41,7 +41,7 @@ def play():
             print ("Your points: " + str(uc))
     
     if uc < cc:
-        print(" :( Computer wins ")
+        print(" :( Computer wins! ")
     else:
         print("You won")
     input("press enter to continue")
